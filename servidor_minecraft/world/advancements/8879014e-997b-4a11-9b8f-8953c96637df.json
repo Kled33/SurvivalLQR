@@ -412,6 +412,7 @@
       "apple": "2024-12-28 06:14:00 +0000",
       "cooked_chicken": "2024-12-27 03:31:55 +0000",
       "enchanted_golden_apple": "2024-12-29 03:48:47 +0000",
+      "potato": "2024-12-29 19:02:43 +0000",
       "carrot": "2024-12-28 03:39:55 +0000"
     },
     "done": false
@@ -3020,6 +3021,24 @@
   "minecraft:recipes/food/suspicious_stew_from_azure_bluet": {
     "criteria": {
       "has_azure_bluet": "2024-12-29 04:53:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2024-12-29 19:02:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2024-12-29 19:02:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2024-12-29 19:02:40 +0000"
     },
     "done": true
   },
