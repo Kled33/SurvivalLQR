@@ -54,3 +54,9 @@
 [19:10:53] [Server thread/INFO]: diex_x joined the game
 [19:12:51] [Server thread/INFO]: sacracoronaj lost connection: Disconnected
 [19:12:51] [Server thread/INFO]: sacracoronaj left the game
+[19:16:46] [User Authenticator #7/INFO]: UUID of player sacracoronaj is 8879014e-997b-4a11-9b8f-8953c96637df
+[19:16:48] [Server thread/INFO]: sacracoronaj[/127.43.195.213:42431] logged in with entity id 17147 at (180.3954036253326, 66.0, -224.36190913171896)
+[19:16:48] [Server thread/INFO]: sacracoronaj joined the game
+[19:22:17] [User Authenticator #8/INFO]: UUID of player 14121983 is 0f176954-9621-42e5-bf45-3f2d74123d62
+[19:22:24] [Server thread/INFO]: 14121983[/127.122.66.195:49041] logged in with entity id 19943 at (174.9597361995245, 65.0, -261.57679091224065)
+[19:22:24] [Server thread/INFO]: 14121983 joined the game
