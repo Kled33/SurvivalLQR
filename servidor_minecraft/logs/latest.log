@@ -110,3 +110,6 @@
 [20:16:52] [Server thread/INFO]: 14121983 left the game
 [20:37:56] [Server thread/INFO]: There are 1 of a max of 20 players online: XKOUZ
 [21:14:02] [Server thread/WARN]: XKOUZ moved too quickly! -9.965479390465816,0.0,-1.1073132160419448
+[21:35:04] [Server thread/INFO]: XKOUZ lost connection: Disconnected
+[21:35:04] [Server thread/INFO]: XKOUZ left the game
+[21:36:04] [Server thread/INFO]: Server empty for 60 seconds, pausing
