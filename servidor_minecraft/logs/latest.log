@@ -1,0 +1,31 @@
+[18:34:11] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[18:34:13] [ServerMain/INFO]: Loaded 1337 recipes
+[18:34:13] [ServerMain/INFO]: Loaded 1448 advancements
+[18:34:13] [Server thread/INFO]: Starting minecraft server version 1.21.3
+[18:34:13] [Server thread/INFO]: Loading properties
+[18:34:13] [Server thread/INFO]: Default game type: SURVIVAL
+[18:34:13] [Server thread/INFO]: Generating keypair
+[18:34:13] [Server thread/INFO]: Starting Minecraft server on *:25565
+[18:34:13] [Server thread/INFO]: Using epoll channel type
+[18:34:13] [Server thread/INFO]: Preparing level "world"
+[18:34:14] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[18:34:16] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[18:34:16] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[18:34:16] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[18:34:16] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[18:34:16] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[18:34:16] [Server thread/INFO]: Time elapsed: 2462 ms
+[18:34:16] [Server thread/INFO]: Done (2.764s)! For help, type "help"
+[18:34:19] [User Authenticator #1/INFO]: UUID of player Nicxlv is 15c31222-00af-48cf-8f3c-a99f1659c907
+[18:34:20] [Server thread/INFO]: Nicxlv[/127.194.46.31:35399] logged in with entity id 72 at (156.98290541233266, 66.67647087614428, -206.33020364110342)
+[18:34:20] [Server thread/INFO]: Nicxlv joined the game
+[18:36:47] [Server thread/INFO]: Nicxlv lost connection: Disconnected
+[18:36:47] [Server thread/INFO]: Nicxlv left the game
+[18:36:48] [User Authenticator #2/INFO]: UUID of player Nicxlv is 15c31222-00af-48cf-8f3c-a99f1659c907
+[18:36:49] [Server thread/INFO]: Nicxlv[/127.194.46.31:40799] logged in with entity id 583 at (169.07912988380644, 65.0, -265.66679844023156)
+[18:36:49] [Server thread/INFO]: Nicxlv joined the game
+[18:37:15] [Server thread/INFO]: [Nicxlv: Set own game mode to Creative Mode]
+[18:37:22] [Server thread/INFO]: [Nicxlv: Set own game mode to Survival Mode]
+[18:41:49] [User Authenticator #3/INFO]: UUID of player XKOUZ is 66769a0c-e0df-454d-bb64-cd951e973cf2
+[18:41:50] [Server thread/INFO]: XKOUZ[/127.68.124.2:36775] logged in with entity id 1872 at (186.01460193330735, 77.0, -141.0209307693853)
+[18:41:50] [Server thread/INFO]: XKOUZ joined the game
