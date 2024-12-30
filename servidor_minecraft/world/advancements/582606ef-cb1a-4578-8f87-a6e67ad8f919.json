@@ -18,6 +18,7 @@
       "minecraft:old_growth_birch_forest": "2024-12-27 05:18:42 +0000",
       "minecraft:ocean": "2024-12-29 02:55:21 +0000",
       "minecraft:cherry_grove": "2024-12-27 02:52:00 +0000",
+      "minecraft:sunflower_plains": "2024-12-30 03:27:54 +0000",
       "minecraft:grove": "2024-12-27 05:21:56 +0000",
       "minecraft:meadow": "2024-12-27 03:14:00 +0000",
       "minecraft:birch_forest": "2024-12-27 05:18:11 +0000",
@@ -3339,6 +3340,18 @@
   "minecraft:recipes/decorations/scaffolding": {
     "criteria": {
       "has_bamboo": "2024-12-29 08:55:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lapis_lazuli": {
+    "criteria": {
+      "has_lapis_block": "2024-12-30 03:32:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/raw_iron": {
+    "criteria": {
+      "has_raw_iron_block": "2024-12-30 03:32:55 +0000"
     },
     "done": true
   },
