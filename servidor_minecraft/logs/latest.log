@@ -32,3 +32,10 @@
 [00:51:37] [Server thread/INFO]: <Nicxlv> o/
 [00:56:29] [Server thread/INFO]: [Nicxlv: Set own game mode to Creative Mode]
 [00:57:20] [Server thread/INFO]: [Nicxlv: Set own game mode to Survival Mode]
+[01:04:47] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=191, y=77, z=-175} jh{x=191, y=76, z=-174}
+[01:04:47] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=191, y=77, z=-176} jh{x=191, y=75, z=-176}
+[01:05:03] [User Authenticator #4/INFO]: UUID of player jonx_x is 31440162-f62c-4768-b863-c2ddb3d8c0c9
+[01:05:04] [Server thread/INFO]: jonx_x[/127.141.98.190:46633] logged in with entity id 4194 at (172.72385559094914, 77.0, -150.4806308022343)
+[01:05:04] [Server thread/INFO]: jonx_x joined the game
+[01:05:11] [Server thread/INFO]: jonx_x lost connection: Disconnected
+[01:05:11] [Server thread/INFO]: jonx_x left the game
