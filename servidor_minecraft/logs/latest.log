@@ -162,3 +162,24 @@
 [04:47:29] [Server thread/INFO]: Tiukk joined the game
 [04:48:31] [Server thread/INFO]: Tiukk has made the advancement [Remote Getaway]
 [04:48:53] [Server thread/WARN]: M14M1 moved too quickly! 3.3550809969300417,-10.766801170065982,0.9717054162165368
+[04:49:52] [Server thread/INFO]: [Nicxlv: Teleported jonx_x to diex_x]
+[04:51:13] [Server thread/INFO]: jonx_x lost connection: Disconnected
+[04:51:13] [Server thread/INFO]: jonx_x left the game
+[04:51:17] [Server thread/INFO]: Nicxlv lost connection: Disconnected
+[04:51:17] [Server thread/INFO]: Nicxlv left the game
+[04:51:23] [Server thread/INFO]: XKOUZ lost connection: Disconnected
+[04:51:23] [Server thread/INFO]: XKOUZ left the game
+[04:51:24] [User Authenticator #12/INFO]: UUID of player jonx_x is 31440162-f62c-4768-b863-c2ddb3d8c0c9
+[04:51:25] [Server thread/INFO]: jonx_x[/127.141.98.190:54621] logged in with entity id 19567 at (439.697858198983, 61.0, -1718.1628127123702)
+[04:51:25] [Server thread/INFO]: jonx_x joined the game
+[04:52:59] [Server thread/INFO]: jonx_x was slain by Enderman
+[04:53:04] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-397, y=65, z=-1329} jh{x=-399, y=63, z=-1330}
+[04:53:04] [Server thread/INFO]: jonx_x lost connection: Disconnected
+[04:53:04] [Server thread/INFO]: jonx_x left the game
+[04:53:23] [Server thread/INFO]: diex_x lost connection: Disconnected
+[04:53:23] [Server thread/INFO]: diex_x left the game
+[04:53:59] [Server thread/INFO]: M14M1 lost connection: Disconnected
+[04:53:59] [Server thread/INFO]: M14M1 left the game
+[04:54:30] [Server thread/INFO]: Tiukk lost connection: Disconnected
+[04:54:30] [Server thread/INFO]: Tiukk left the game
+[04:55:30] [Server thread/INFO]: Server empty for 60 seconds, pausing

@@ -352,6 +352,7 @@
       "bread": "2024-12-30 03:17:59 +0000",
       "rotten_flesh": "2024-12-30 03:30:53 +0000",
       "cooked_mutton": "2024-12-30 03:53:12 +0000",
+      "chorus_fruit": "2024-12-30 04:47:31 +0000",
       "baked_potato": "2024-12-30 03:17:57 +0000",
       "beef": "2024-12-30 04:36:43 +0000"
     },
@@ -1154,6 +1155,12 @@
   "minecraft:recipes/building_blocks/stone_bricks": {
     "criteria": {
       "has_stone": "2024-12-30 04:40:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/popped_chorus_fruit": {
+    "criteria": {
+      "has_chorus_fruit": "2024-12-30 04:47:28 +0000"
     },
     "done": true
   },
