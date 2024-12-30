@@ -1,115 +1,34 @@
-[18:34:11] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[18:34:13] [ServerMain/INFO]: Loaded 1337 recipes
-[18:34:13] [ServerMain/INFO]: Loaded 1448 advancements
-[18:34:13] [Server thread/INFO]: Starting minecraft server version 1.21.3
-[18:34:13] [Server thread/INFO]: Loading properties
-[18:34:13] [Server thread/INFO]: Default game type: SURVIVAL
-[18:34:13] [Server thread/INFO]: Generating keypair
-[18:34:13] [Server thread/INFO]: Starting Minecraft server on *:25565
-[18:34:13] [Server thread/INFO]: Using epoll channel type
-[18:34:13] [Server thread/INFO]: Preparing level "world"
-[18:34:14] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[18:34:16] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[18:34:16] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[18:34:16] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[18:34:16] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[18:34:16] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[18:34:16] [Server thread/INFO]: Time elapsed: 2462 ms
-[18:34:16] [Server thread/INFO]: Done (2.764s)! For help, type "help"
-[18:34:19] [User Authenticator #1/INFO]: UUID of player Nicxlv is 15c31222-00af-48cf-8f3c-a99f1659c907
-[18:34:20] [Server thread/INFO]: Nicxlv[/127.194.46.31:35399] logged in with entity id 72 at (156.98290541233266, 66.67647087614428, -206.33020364110342)
-[18:34:20] [Server thread/INFO]: Nicxlv joined the game
-[18:36:47] [Server thread/INFO]: Nicxlv lost connection: Disconnected
-[18:36:47] [Server thread/INFO]: Nicxlv left the game
-[18:36:48] [User Authenticator #2/INFO]: UUID of player Nicxlv is 15c31222-00af-48cf-8f3c-a99f1659c907
-[18:36:49] [Server thread/INFO]: Nicxlv[/127.194.46.31:40799] logged in with entity id 583 at (169.07912988380644, 65.0, -265.66679844023156)
-[18:36:49] [Server thread/INFO]: Nicxlv joined the game
-[18:37:15] [Server thread/INFO]: [Nicxlv: Set own game mode to Creative Mode]
-[18:37:22] [Server thread/INFO]: [Nicxlv: Set own game mode to Survival Mode]
-[18:41:49] [User Authenticator #3/INFO]: UUID of player XKOUZ is 66769a0c-e0df-454d-bb64-cd951e973cf2
-[18:41:50] [Server thread/INFO]: XKOUZ[/127.68.124.2:36775] logged in with entity id 1872 at (186.01460193330735, 77.0, -141.0209307693853)
-[18:41:50] [Server thread/INFO]: XKOUZ joined the game
-[18:48:19] [Server thread/INFO]: [Nicxlv: Set own game mode to Creative Mode]
-[18:49:10] [Server thread/INFO]: [Nicxlv: Set own game mode to Survival Mode]
-[18:57:43] [User Authenticator #4/INFO]: UUID of player jonx_x is 31440162-f62c-4768-b863-c2ddb3d8c0c9
-[18:57:44] [User Authenticator #5/INFO]: UUID of player sacracoronaj is 8879014e-997b-4a11-9b8f-8953c96637df
-[18:57:44] [Server thread/INFO]: jonx_x[/127.141.98.190:40899] logged in with entity id 8138 at (184.1429608312847, 77.0, -169.51140189788856)
-[18:57:44] [Server thread/INFO]: jonx_x joined the game
-[18:57:45] [Server thread/INFO]: sacracoronaj[/127.43.195.213:53883] logged in with entity id 8276 at (204.11520712280762, 66.0, -299.2848892992011)
-[18:57:45] [Server thread/INFO]: sacracoronaj joined the game
-[18:58:51] [Server thread/INFO]: [Nicxlv: Set own game mode to Creative Mode]
-[18:59:00] [Server thread/INFO]: [Nicxlv: Set own game mode to Survival Mode]
-[18:59:41] [Server thread/INFO]: [Nicxlv: Set own game mode to Creative Mode]
-[18:59:53] [Server thread/INFO]: <XKOUZ> -10 0 -261
-[19:00:10] [Server thread/INFO]: [Nicxlv: Set own game mode to Survival Mode]
-[19:00:35] [Server thread/INFO]: [Nicxlv: Set own game mode to Creative Mode]
-[19:00:41] [Server thread/INFO]: [Nicxlv: Set own game mode to Survival Mode]
-[19:05:12] [Server thread/INFO]: <XKOUZ> -10 0 -261
-[19:08:08] [Server thread/INFO]: [Nicxlv: Set own game mode to Creative Mode]
-[19:08:10] [Server thread/INFO]: [Nicxlv: Set own game mode to Survival Mode]
-[19:08:32] [Server thread/INFO]: [Nicxlv: Set own game mode to Creative Mode]
-[19:09:10] [Server thread/INFO]: [Nicxlv: Set own game mode to Survival Mode]
-[19:10:52] [User Authenticator #6/INFO]: UUID of player diex_x is abadc53e-055c-4546-87b0-a545401ea610
-[19:10:53] [Server thread/INFO]: diex_x[/127.12.15.75:42517] logged in with entity id 13612 at (163.67490044658692, 77.0, -153.66838683172182)
-[19:10:53] [Server thread/INFO]: diex_x joined the game
-[19:12:51] [Server thread/INFO]: sacracoronaj lost connection: Disconnected
-[19:12:51] [Server thread/INFO]: sacracoronaj left the game
-[19:16:46] [User Authenticator #7/INFO]: UUID of player sacracoronaj is 8879014e-997b-4a11-9b8f-8953c96637df
-[19:16:48] [Server thread/INFO]: sacracoronaj[/127.43.195.213:42431] logged in with entity id 17147 at (180.3954036253326, 66.0, -224.36190913171896)
-[19:16:48] [Server thread/INFO]: sacracoronaj joined the game
-[19:22:17] [User Authenticator #8/INFO]: UUID of player 14121983 is 0f176954-9621-42e5-bf45-3f2d74123d62
-[19:22:24] [Server thread/INFO]: 14121983[/127.122.66.195:49041] logged in with entity id 19943 at (174.9597361995245, 65.0, -261.57679091224065)
-[19:22:24] [Server thread/INFO]: 14121983 joined the game
-[19:29:53] [Server thread/INFO]: jonx_x lost connection: Disconnected
-[19:29:53] [Server thread/INFO]: jonx_x left the game
-[19:33:34] [Server thread/INFO]: <Nicxlv> -10 0 -261
-[19:40:45] [Server thread/INFO]: <sacracoronaj> ya vengo
-[19:44:56] [Server thread/INFO]: sacracoronaj lost connection: Disconnected
-[19:44:56] [Server thread/INFO]: sacracoronaj left the game
-[19:54:07] [Server thread/INFO]: [Nicxlv: Set own game mode to Creative Mode]
-[19:55:55] [Server thread/INFO]: [Nicxlv: Set own game mode to Survival Mode]
-[19:57:05] [Server thread/INFO]: [Nicxlv: Set own game mode to Creative Mode]
-[19:57:09] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=422, y=129, z=173} jh{x=422, y=129, z=175}
-[19:57:09] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=422, y=129, z=173} jh{x=422, y=129, z=175}
-[19:57:09] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=422, y=129, z=173} jh{x=422, y=129, z=175}
-[19:57:09] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=422, y=129, z=173} jh{x=422, y=129, z=175}
-[19:57:09] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=422, y=129, z=173} jh{x=422, y=129, z=175}
-[19:57:09] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=422, y=129, z=173} jh{x=422, y=129, z=175}
-[19:57:09] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=422, y=129, z=173} jh{x=422, y=129, z=175}
-[19:57:38] [Server thread/INFO]: [Nicxlv: Set own game mode to Survival Mode]
-[19:57:57] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=15, y=76, z=-56} jh{x=15, y=76, z=-55}
-[20:00:55] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=86, y=81, z=-89} jh{x=87, y=82, z=-89}
-[20:00:55] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=86, y=81, z=-89} jh{x=87, y=81, z=-89}
-[20:00:55] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=86, y=81, z=-89} jh{x=87, y=81, z=-89}
-[20:01:12] [Server thread/INFO]: diex_x has made the advancement [Those Were the Days]
-[20:01:14] [Server thread/INFO]: Nicxlv has made the advancement [Those Were the Days]
-[20:01:25] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=284, y=69, z=-318} jh{x=285, y=68, z=-320}
-[20:01:25] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=284, y=70, z=-319} jh{x=285, y=68, z=-320}
-[20:01:25] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=284, y=70, z=-319} jh{x=285, y=68, z=-320}
-[20:01:58] [Server thread/INFO]: diex_x has made the advancement [War Pigs]
-[20:02:01] [Server thread/INFO]: diex_x has made the advancement [Hidden in the Depths]
-[20:04:02] [Server thread/INFO]: Nicxlv has made the advancement [War Pigs]
-[20:05:02] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=81, y=55, z=-37} jh{x=79, y=54, z=-36}
-[20:07:16] [Server thread/INFO]: [Nicxlv: Set own game mode to Spectator Mode]
-[20:07:21] [Server thread/INFO]: [Nicxlv: Teleported Nicxlv to XKOUZ]
-[20:07:23] [Server thread/INFO]: [Nicxlv: Set own game mode to Survival Mode]
-[20:09:23] [Server thread/INFO]: <14121983> granja de hierro
-[20:09:25] [Server thread/INFO]: <14121983> q funcione?
-[20:09:26] [Server thread/INFO]: <14121983> hay?
-[20:09:32] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=274, y=65, z=-350} jh{x=273, y=64, z=-348}
-[20:09:44] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=257, y=64, z=-357} jh{x=257, y=63, z=-359}
-[20:09:52] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=275, y=63, z=-357} jh{x=276, y=63, z=-357}
-[20:10:11] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=301, y=67, z=-344} jh{x=302, y=66, z=-344}
-[20:10:11] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=301, y=67, z=-344} jh{x=302, y=66, z=-344}
-[20:10:55] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=282, y=63, z=-351} jh{x=246, y=65, z=-358}
-[20:11:47] [Server thread/INFO]: diex_x lost connection: Disconnected
-[20:11:47] [Server thread/INFO]: diex_x left the game
-[20:13:45] [Server thread/INFO]: Nicxlv lost connection: Disconnected
-[20:13:45] [Server thread/INFO]: Nicxlv left the game
-[20:16:52] [Server thread/INFO]: 14121983 lost connection: Disconnected
-[20:16:52] [Server thread/INFO]: 14121983 left the game
-[20:37:56] [Server thread/INFO]: There are 1 of a max of 20 players online: XKOUZ
-[21:14:02] [Server thread/WARN]: XKOUZ moved too quickly! -9.965479390465816,0.0,-1.1073132160419448
-[21:35:04] [Server thread/INFO]: XKOUZ lost connection: Disconnected
-[21:35:04] [Server thread/INFO]: XKOUZ left the game
-[21:36:04] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[00:48:30] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[00:48:31] [ServerMain/INFO]: Loaded 1337 recipes
+[00:48:31] [ServerMain/INFO]: Loaded 1448 advancements
+[00:48:31] [Server thread/INFO]: Starting minecraft server version 1.21.3
+[00:48:31] [Server thread/INFO]: Loading properties
+[00:48:31] [Server thread/INFO]: Default game type: SURVIVAL
+[00:48:31] [Server thread/INFO]: Generating keypair
+[00:48:32] [Server thread/INFO]: Starting Minecraft server on *:25565
+[00:48:32] [Server thread/INFO]: Using epoll channel type
+[00:48:32] [Server thread/INFO]: Preparing level "world"
+[00:48:32] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[00:48:35] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[00:48:35] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[00:48:35] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[00:48:35] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[00:48:35] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[00:48:35] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[00:48:35] [Server thread/INFO]: Time elapsed: 2986 ms
+[00:48:35] [Server thread/INFO]: Done (3.305s)! For help, type "help"
+[00:48:40] [User Authenticator #1/INFO]: UUID of player Tiukk is 582606ef-cb1a-4578-8f87-a6e67ad8f919
+[00:48:42] [Server thread/INFO]: Tiukk[/127.168.226.231:57539] logged in with entity id 30 at (145.1333512649493, 72.0, -174.48150136156173)
+[00:48:42] [Server thread/INFO]: Tiukk joined the game
+[00:49:20] [User Authenticator #2/INFO]: UUID of player Nicxlv is 15c31222-00af-48cf-8f3c-a99f1659c907
+[00:49:21] [Server thread/INFO]: Nicxlv[/127.194.46.31:60759] logged in with entity id 643 at (161.872298319685, 73.0, -183.83371835605695)
+[00:49:21] [Server thread/INFO]: Nicxlv joined the game
+[00:50:22] [Server thread/INFO]: <Tiukk> duermete
+[00:50:37] [Server thread/INFO]: <Nicxlv> zzz
+[00:51:29] [User Authenticator #3/INFO]: UUID of player XKOUZ is 66769a0c-e0df-454d-bb64-cd951e973cf2
+[00:51:30] [Server thread/INFO]: XKOUZ[/127.68.124.2:34417] logged in with entity id 1355 at (199.79207585230228, 89.0, -170.37141783395379)
+[00:51:30] [Server thread/INFO]: XKOUZ joined the game
+[00:51:33] [Server thread/INFO]: <XKOUZ> buenas
+[00:51:37] [Server thread/INFO]: <Nicxlv> o/
+[00:56:29] [Server thread/INFO]: [Nicxlv: Set own game mode to Creative Mode]
+[00:57:20] [Server thread/INFO]: [Nicxlv: Set own game mode to Survival Mode]
