@@ -76,3 +76,21 @@
 [01:49:09] [Server thread/INFO]: [Nicxlv: Set own game mode to Creative Mode]
 [01:51:56] [Server thread/INFO]: [Nicxlv: Set own game mode to Survival Mode]
 [01:53:42] [Server thread/INFO]: [Nicxlv: Set own game mode to Creative Mode]
+[02:04:39] [Server thread/INFO]: [Nicxlv: Set own game mode to Survival Mode]
+[02:08:26] [Server thread/INFO]: [Nicxlv: Set own game mode to Creative Mode]
+[02:16:58] [User Authenticator #10/INFO]: UUID of player sacracoronaj is 8879014e-997b-4a11-9b8f-8953c96637df
+[02:17:00] [Server thread/INFO]: sacracoronaj[/127.43.195.213:45535] logged in with entity id 27129 at (204.12904011575532, 88.0, -163.11966205111537)
+[02:17:00] [Server thread/INFO]: sacracoronaj joined the game
+[02:17:44] [User Authenticator #11/INFO]: UUID of player jonx_x is 31440162-f62c-4768-b863-c2ddb3d8c0c9
+[02:17:45] [Server thread/INFO]: jonx_x[/127.141.98.190:51825] logged in with entity id 27244 at (173.61949870445284, 77.0, -154.97874371950385)
+[02:17:45] [Server thread/INFO]: jonx_x joined the game
+[02:19:37] [Server thread/INFO]: [Nicxlv: Set own game mode to Survival Mode]
+[02:24:26] [Server thread/WARN]: Tiukk moved too quickly! 9.680638730539812,2.8291870918577047,2.1767142512932764
+[02:24:30] [Server thread/WARN]: Tiukk was kicked for floating too long!
+[02:24:30] [Server thread/INFO]: Tiukk lost connection: Flying is not enabled on this server
+[02:24:30] [Server thread/INFO]: Tiukk left the game
+[02:24:34] [User Authenticator #12/INFO]: UUID of player Tiukk is 582606ef-cb1a-4578-8f87-a6e67ad8f919
+[02:24:35] [Server thread/INFO]: Tiukk[/127.168.226.231:50391] logged in with entity id 28286 at (145.6974593407574, 71.16610926093821, -190.64751981077768)
+[02:24:35] [Server thread/INFO]: Tiukk joined the game
+[02:28:15] [Server thread/INFO]: [Nicxlv: Set own game mode to Creative Mode]
+[02:28:21] [Server thread/INFO]: [Nicxlv: Set own game mode to Survival Mode]
