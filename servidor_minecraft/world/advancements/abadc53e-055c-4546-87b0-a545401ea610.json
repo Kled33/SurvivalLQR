@@ -2966,5 +2966,24 @@
     },
     "done": true
   },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:cow": "2024-12-30 04:07:53 +0000",
+      "minecraft:sheep": "2024-12-30 04:08:07 +0000"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2024-12-30 04:07:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2024-12-30 04:07:53 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 4082
 }

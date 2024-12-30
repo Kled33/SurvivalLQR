@@ -10,13 +10,14 @@
       "minecraft:flower_forest": "2024-12-27 02:27:59 +0000",
       "minecraft:snowy_slopes": "2024-12-27 02:18:39 +0000",
       "minecraft:forest": "2024-12-27 02:17:55 +0000",
-      "minecraft:deep_dark": "2024-12-27 03:17:39 +0000",
-      "minecraft:cherry_grove": "2024-12-27 02:17:24 +0000",
-      "minecraft:sunflower_plains": "2024-12-28 20:46:16 +0000",
       "minecraft:river": "2024-12-27 02:27:42 +0000",
-      "minecraft:meadow": "2024-12-28 19:41:14 +0000",
       "minecraft:dripstone_caves": "2024-12-27 02:19:26 +0000",
       "minecraft:frozen_peaks": "2024-12-30 03:44:14 +0000",
+      "minecraft:deep_dark": "2024-12-27 03:17:39 +0000",
+      "minecraft:ocean": "2024-12-30 03:48:45 +0000",
+      "minecraft:cherry_grove": "2024-12-27 02:17:24 +0000",
+      "minecraft:sunflower_plains": "2024-12-28 20:46:16 +0000",
+      "minecraft:meadow": "2024-12-28 19:41:14 +0000",
       "minecraft:savanna": "2024-12-27 04:59:50 +0000",
       "minecraft:plains": "2024-12-27 02:25:14 +0000"
     },
@@ -815,6 +816,7 @@
       "minecraft:zombie": "2024-12-27 02:33:53 +0000",
       "minecraft:creeper": "2024-12-27 02:37:13 +0000",
       "minecraft:drowned": "2024-12-29 18:59:40 +0000",
+      "minecraft:zombie_villager": "2024-12-30 03:53:02 +0000",
       "minecraft:evoker": "2024-12-28 06:07:22 +0000"
     },
     "done": false
@@ -3255,6 +3257,42 @@
   "minecraft:recipes/building_blocks/blue_ice": {
     "criteria": {
       "has_packed_ice": "2024-12-30 03:44:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/copper_block": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-30 03:48:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/brush": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-30 03:48:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/copper_door": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-30 03:48:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lightning_rod": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-30 03:48:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/copper_trapdoor": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-30 03:48:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/conduit": {
+    "criteria": {
+      "has_nautilus_shell": "2024-12-30 03:48:59 +0000"
     },
     "done": true
   },
