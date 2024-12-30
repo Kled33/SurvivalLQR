@@ -63,3 +63,13 @@
 [01:34:02] [Server thread/INFO]: 14121983 left the game
 [01:34:23] [Server thread/INFO]: [Nicxlv: Set own game mode to Survival Mode]
 [01:38:22] [Server thread/INFO]: [Nicxlv: Set own game mode to Creative Mode]
+[01:39:15] [User Authenticator #8/INFO]: UUID of player 14121983 is 0f176954-9621-42e5-bf45-3f2d74123d62
+[01:39:23] [Server thread/INFO]: 14121983[/127.122.66.195:50641] logged in with entity id 15711 at (264.6558892159556, 70.0, -344.5552327475841)
+[01:39:23] [Server thread/INFO]: 14121983 joined the game
+[01:39:53] [Server thread/INFO]: 14121983 lost connection: Timed out
+[01:39:53] [Server thread/INFO]: 14121983 left the game
+[01:40:26] [Server thread/INFO]: 14121983 (/127.122.66.195:47567) lost connection: Disconnected
+[01:40:39] [Server thread/INFO]: 14121983 (/127.122.66.195:45187) lost connection: Disconnected
+[01:41:10] [User Authenticator #9/INFO]: UUID of player 14121983 is 0f176954-9621-42e5-bf45-3f2d74123d62
+[01:41:22] [Server thread/INFO]: [Nicxlv: Set own game mode to Survival Mode]
+[01:41:28] [Server thread/INFO]: com.mojang.authlib.GameProfile@1d2423aa[id=0f176954-9621-42e5-bf45-3f2d74123d62,name=14121983,properties={textures=[Property[name=textures, value=ewogICJ0aW1lc3RhbXAiIDogMTczNTUyMjg2OTk4MSwKICAicHJvZmlsZUlkIiA6ICIwZjE3Njk1NDk2MjE0MmU1YmY0NTNmMmQ3NDEyM2Q2MiIsCiAgInByb2ZpbGVOYW1lIiA6ICIxNDEyMTk4MyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9iZTYwMTdiZWRjN2EyMTUyZTdkZDhmMjgwMGY4YzQ2NTgzNjY0N2ExNTZkNTNkZjQ4M2Q0ZWQyMjE3ZTYzZTMzIgogICAgfQogIH0KfQ==, signature=uX96nho3k2VFxpFrBS1y785i89wukfE7NidLGksL1Gbp6l4ulEJ96EDHrUNDbxV7cWfZIborytf7e2sWSL/M7J8zg75aWd95kJmZi4Ct/zK/yPC6YwulN9LDmXjlzXVY2ouoYrGV9koIoLkRjhGjBsG57uIzrzn+xh7RQtZATSf5Gx6ZuuHI+nas8VmjynJnrKhcZBPg+2+7cujF7/byU+ZfDsMN3rpc/7V7LQXWPsJ1wTCIjdBFN+Gu5lNps8j4Z0BwwIVweANBD5KWk9rihNgCCI8tJsGDGrbjSlZqfWurzX801rvgK6kKpI8na+3gtHFMcKj1pB6mT4ADtbpTZ0TDXYJH0K++mItIVJBnWGzAJuRiIU3f51blECg3BWxdOdcFh1YJbf4nEAL+bifJiuCoXUW8lHi0VPX0824yDZSBK5TwBpJcak9QZYsfHWUmeeZ806PLPw3XYqJJh4mEuA5yolH73Em0JMAYmrxqJfuNRXP3omZuXQarQfAY34jAn4sjP3YbgUlQBd3YnDiwVUgOWo+yzsQXqD6Yo0giTjxuChIhsUDU6R9uN6x6sTuXMb+uinYOHDYAg5+vSGiOaNA1InYYez6QZ/Un/lJXF9dymunHFuE+z4Ybunm4vOVyXfcWX7/5TNN0JzHV9StbsbHXBVxCzsYlCoTY/z7Thy0=]]}] lost connection: Timed out
