@@ -7,14 +7,22 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:cold_ocean": "2024-12-30 04:38:44 +0000",
       "minecraft:flower_forest": "2024-12-28 04:27:56 +0000",
       "minecraft:forest": "2024-12-27 02:45:33 +0000",
+      "minecraft:taiga": "2024-12-30 04:35:09 +0000",
+      "minecraft:river": "2024-12-27 03:03:28 +0000",
+      "minecraft:snowy_plains": "2024-12-30 04:37:19 +0000",
+      "minecraft:dripstone_caves": "2024-12-27 02:50:27 +0000",
+      "minecraft:snowy_taiga": "2024-12-30 04:37:56 +0000",
+      "minecraft:deep_cold_ocean": "2024-12-30 04:39:23 +0000",
+      "minecraft:frozen_ocean": "2024-12-30 04:38:39 +0000",
+      "minecraft:frozen_river": "2024-12-30 04:37:48 +0000",
+      "minecraft:deep_frozen_ocean": "2024-12-30 04:38:58 +0000",
       "minecraft:deep_dark": "2024-12-27 02:54:18 +0000",
       "minecraft:cherry_grove": "2024-12-27 02:45:34 +0000",
       "minecraft:sunflower_plains": "2024-12-27 05:00:30 +0000",
-      "minecraft:river": "2024-12-27 03:03:28 +0000",
       "minecraft:meadow": "2024-12-27 03:18:03 +0000",
-      "minecraft:dripstone_caves": "2024-12-27 02:50:27 +0000",
       "minecraft:plains": "2024-12-27 02:48:23 +0000"
     },
     "done": false
@@ -3129,6 +3137,114 @@
   "minecraft:recipes/building_blocks/polished_deepslate_stairs": {
     "criteria": {
       "has_polished_deepslate": "2024-12-29 19:11:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2024-12-30 04:22:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2024-12-30 04:22:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/grindstone": {
+    "criteria": {
+      "has_stone_slab": "2024-12-30 04:22:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2024-12-30 04:36:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2024-12-30 04:40:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2024-12-30 04:41:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
+    "criteria": {
+      "has_ancient_debris": "2024-12-30 04:30:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2024-12-30 04:36:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2024-12-30 04:36:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_bricks": {
+    "criteria": {
+      "has_end_stone": "2024-12-30 04:41:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2024-12-30 04:41:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap": {
+    "criteria": {
+      "has_ancient_debris": "2024-12-30 04:30:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2024-12-30 04:39:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2024-12-30 04:40:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2024-12-30 04:30:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_bricks_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2024-12-30 04:41:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2024-12-30 04:41:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2024-12-30 04:40:30 +0000"
     },
     "done": true
   },

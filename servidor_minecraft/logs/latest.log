@@ -1,295 +1,164 @@
-[02:56:42] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[02:56:44] [ServerMain/INFO]: Loaded 1337 recipes
-[02:56:44] [ServerMain/INFO]: Loaded 1448 advancements
-[02:56:45] [Server thread/INFO]: Starting minecraft server version 1.21.3
-[02:56:45] [Server thread/INFO]: Loading properties
-[02:56:45] [Server thread/INFO]: Default game type: SURVIVAL
-[02:56:45] [Server thread/INFO]: Generating keypair
-[02:56:45] [Server thread/INFO]: Starting Minecraft server on *:25565
-[02:56:45] [Server thread/INFO]: Using epoll channel type
-[02:56:45] [Server thread/INFO]: Preparing level "world"
-[02:56:45] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[02:56:46] [User Authenticator #1/INFO]: UUID of player sacracoronaj is 8879014e-997b-4a11-9b8f-8953c96637df
-[02:56:49] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[02:56:49] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[02:56:49] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[02:56:49] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[02:56:49] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[02:56:49] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[02:56:49] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[02:56:49] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[02:56:49] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[02:56:49] [User Authenticator #2/INFO]: UUID of player Tiukk is 582606ef-cb1a-4578-8f87-a6e67ad8f919
-[02:56:50] [User Authenticator #3/INFO]: UUID of player Nicxlv is 15c31222-00af-48cf-8f3c-a99f1659c907
-[02:56:50] [Server thread/INFO]: Time elapsed: 4432 ms
-[02:56:50] [Server thread/INFO]: Done (4.893s)! For help, type "help"
-[02:56:51] [Server thread/INFO]: Nicxlv[/127.194.46.31:49973] logged in with entity id 30 at (201.166216074141, 94.0, -172.57438973356466)
-[02:56:51] [Server thread/INFO]: Nicxlv joined the game
-[02:56:51] [Server thread/INFO]: sacracoronaj[/127.43.195.213:51845] logged in with entity id 31 at (164.36532309501948, 77.162141421027, -140.30000001192093)
-[02:56:51] [Server thread/INFO]: sacracoronaj joined the game
-[02:56:51] [Server thread/INFO]: Tiukk[/127.168.226.231:53937] logged in with entity id 32 at (156.2381930787188, 66.0, -215.38355931944636)
-[02:56:51] [Server thread/INFO]: Tiukk joined the game
-[02:56:52] [User Authenticator #4/INFO]: UUID of player jonx_x is 31440162-f62c-4768-b863-c2ddb3d8c0c9
-[02:56:53] [Server thread/INFO]: jonx_x[/127.141.98.190:42489] logged in with entity id 240 at (160.4832521932277, 77.0, -146.74756032984138)
-[02:56:53] [Server thread/INFO]: jonx_x joined the game
-[02:56:53] [User Authenticator #5/INFO]: UUID of player XKOUZ is 66769a0c-e0df-454d-bb64-cd951e973cf2
-[02:56:54] [Server thread/INFO]: XKOUZ[/127.68.124.2:52489] logged in with entity id 294 at (175.12737603030558, 95.0, -165.7189313909378)
-[02:56:54] [Server thread/INFO]: XKOUZ joined the game
-[02:59:06] [Server thread/INFO]: <jonx_x> lapiz
-[02:59:07] [Server thread/INFO]: <jonx_x> man
-[02:59:11] [Server thread/INFO]: <jonx_x> kien tiene
-[03:00:54] [Server thread/INFO]: <jonx_x> Nicxlv Giveame lapiz man
-[03:01:09] [Server thread/INFO]: <jonx_x> yano
-[03:01:21] [Server thread/INFO]: jonx_x has made the advancement [Enchanter]
-[03:07:38] [User Authenticator #6/INFO]: UUID of player M14M1 is ef82845c-420a-4bb2-9312-1f71912ad27f
-[03:07:39] [Server thread/INFO]: M14M1[/127.49.88.175:51089] logged in with entity id 2951 at (-109.5, 123.0, 79.5)
-[03:07:39] [Server thread/INFO]: M14M1 joined the game
-[03:10:30] [Server thread/INFO]: M14M1 has made the advancement [Stone Age]
-[03:10:37] [Server thread/INFO]: M14M1 has made the advancement [Getting an Upgrade]
-[03:11:17] [Server thread/INFO]: [Nicxlv: Set own game mode to Creative Mode]
-[03:12:23] [Server thread/INFO]: M14M1 was slain by Zombie
-[03:15:24] [Server thread/INFO]: [Nicxlv: Set own game mode to Survival Mode]
-[03:16:51] [User Authenticator #7/INFO]: UUID of player diex_x is abadc53e-055c-4546-87b0-a545401ea610
-[03:16:52] [Server thread/INFO]: diex_x[/127.12.15.75:50375] logged in with entity id 7962 at (454.63933648234416, 64.0, -414.9553425208599)
-[03:16:52] [Server thread/INFO]: diex_x joined the game
-[03:23:05] [Server thread/INFO]: <jonx_x> Si
-[03:23:09] [Server thread/INFO]: <jonx_x> pero con el item en otra mano
-[03:23:38] [Server thread/INFO]: <jonx_x> puedes mover el puto beaco
-[03:23:39] [Server thread/INFO]: <jonx_x> joako
-[03:23:43] [Server thread/INFO]: <jonx_x> NO
-[03:25:23] [Server thread/INFO]: <jonx_x> XKOUZ MARCAS DEL CULO
-[03:26:24] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=168, y=122, z=-57} jh{x=171, y=122, z=-61}
-[03:26:24] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=168, y=122, z=-57} jh{x=171, y=122, z=-61}
-[03:26:24] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=168, y=122, z=-57} jh{x=171, y=122, z=-61}
-[03:26:27] [Server thread/INFO]: <jonx_x> donde
-[03:26:29] [Server thread/INFO]: <jonx_x> pongo elf aro
-[03:26:34] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=151, y=121, z=-82} jh{x=149, y=120, z=-81}
-[03:26:34] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=151, y=121, z=-82} jh{x=149, y=120, z=-81}
-[03:26:34] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=151, y=121, z=-82} jh{x=149, y=120, z=-81}
-[03:26:34] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=151, y=121, z=-82} jh{x=149, y=120, z=-81}
-[03:26:34] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=151, y=121, z=-82} jh{x=149, y=120, z=-81}
-[03:26:34] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=151, y=121, z=-82} jh{x=149, y=120, z=-81}
-[03:26:35] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=151, y=121, z=-82} jh{x=149, y=120, z=-81}
-[03:26:35] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=151, y=121, z=-82} jh{x=149, y=120, z=-81}
-[03:26:35] [Server thread/INFO]: <jonx_x> :V
-[03:27:07] [Server thread/INFO]: <jonx_x> ok
-[03:27:25] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=98, y=65, z=-163} jh{x=108, y=64, z=-177}
-[03:27:56] [Server thread/INFO]: [Nicxlv: Set own game mode to Creative Mode]
-[03:28:15] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=134, y=124, z=-79} jh{x=133, y=123, z=-79}
-[03:28:23] [Server thread/INFO]: [Nicxlv: Set own game mode to Survival Mode]
-[03:29:03] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=155, y=122, z=-75} jh{x=155, y=121, z=-76}
-[03:29:03] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=155, y=122, z=-75} jh{x=155, y=121, z=-76}
-[03:29:04] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=158, y=122, z=-77} jh{x=156, y=122, z=-73}
-[03:29:20] [Server thread/INFO]: jonx_x has reached the goal [Beaconator]
-[03:29:20] [Server thread/INFO]: jonx_x has made the advancement [Bring Home the Beacon]
-[03:30:22] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=110, y=124, z=-77} jh{x=115, y=122, z=-77}
-[03:30:22] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=110, y=124, z=-77} jh{x=115, y=122, z=-77}
-[03:30:45] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=110, y=125, z=-87} jh{x=111, y=125, z=-87}
-[03:31:06] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=147, y=126, z=-60} jh{x=146, y=126, z=-58}
-[03:31:09] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=146, y=124, z=-52} jh{x=146, y=122, z=-55}
-[03:31:28] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=149, y=123, z=-62} jh{x=149, y=122, z=-63}
-[03:31:28] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=149, y=122, z=-62} jh{x=149, y=122, z=-63}
-[03:31:29] [Server thread/INFO]: [Nicxlv: Set own game mode to Creative Mode]
-[03:31:55] [Server thread/INFO]: <jonx_x> JOAKO
-[03:31:58] [Server thread/INFO]: <jonx_x> MIRA CUANTO LLEVAMOS
-[03:31:59] [Server thread/INFO]: <jonx_x> XD
-[03:32:19] [Server thread/INFO]: [Nicxlv: Set own game mode to Survival Mode]
-[03:32:22] [Server thread/INFO]: <jonx_x> TAN AYUDANDO
-[03:32:25] [Server thread/INFO]: <jonx_x> BANCO
-[03:35:28] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=153, y=92, z=-126} jh{x=153, y=91, z=-126}
-[03:35:28] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=153, y=92, z=-126} jh{x=153, y=91, z=-126}
-[03:35:28] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=153, y=92, z=-126} jh{x=153, y=91, z=-126}
-[03:35:28] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=153, y=92, z=-126} jh{x=153, y=91, z=-126}
-[03:35:28] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=153, y=92, z=-126} jh{x=153, y=91, z=-126}
-[03:35:28] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=153, y=92, z=-126} jh{x=153, y=91, z=-126}
-[03:35:28] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=153, y=92, z=-126} jh{x=153, y=91, z=-126}
-[03:35:28] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=153, y=92, z=-126} jh{x=153, y=91, z=-126}
-[03:35:28] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=153, y=92, z=-126} jh{x=153, y=91, z=-126}
-[03:35:33] [Server thread/INFO]: [Nicxlv: Set own game mode to Creative Mode]
-[03:35:39] [Server thread/INFO]: [Nicxlv: Set own game mode to Survival Mode]
-[03:36:51] [Server thread/INFO]: diex_x has made the advancement [Enchanter]
-[03:39:44] [Server thread/INFO]: M14M1 has made the advancement [We Need to Go Deeper]
-[03:40:09] [Server thread/INFO]: M14M1 has made the advancement [Monster Hunter]
-[03:41:07] [Server thread/INFO]: [Nicxlv: Set own game mode to Spectator Mode]
-[03:41:39] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=131, y=125, z=-75} jh{x=130, y=125, z=-76}
-[03:41:39] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=131, y=125, z=-75} jh{x=130, y=125, z=-76}
-[03:41:39] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=131, y=125, z=-75} jh{x=130, y=125, z=-76}
-[03:41:39] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=131, y=125, z=-75} jh{x=130, y=125, z=-76}
-[03:41:39] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=131, y=125, z=-75} jh{x=130, y=125, z=-76}
-[03:41:40] [Server thread/INFO]: [Nicxlv: Set own game mode to Survival Mode]
-[03:42:04] [Server thread/INFO]: M14M1 has made the advancement [A Terrible Fortress]
-[03:42:12] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=168, y=128, z=-44} jh{x=163, y=128, z=-44}
-[03:42:12] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=168, y=128, z=-44} jh{x=163, y=128, z=-44}
-[03:42:12] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=168, y=128, z=-44} jh{x=163, y=128, z=-44}
-[03:42:12] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=168, y=128, z=-44} jh{x=163, y=128, z=-44}
-[03:42:12] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=168, y=128, z=-44} jh{x=163, y=128, z=-44}
-[03:42:12] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=168, y=128, z=-44} jh{x=163, y=128, z=-44}
-[03:42:12] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=168, y=128, z=-44} jh{x=163, y=128, z=-44}
-[03:42:12] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=168, y=128, z=-44} jh{x=163, y=128, z=-44}
-[03:42:12] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=168, y=128, z=-44} jh{x=163, y=128, z=-44}
-[03:42:20] [Server thread/INFO]: [Nicxlv: Set own game mode to Spectator Mode]
-[03:42:37] [Server thread/INFO]: [Nicxlv: Set own game mode to Survival Mode]
-[03:43:18] [Server thread/INFO]: [Nicxlv: Set own game mode to Spectator Mode]
-[03:43:31] [Server thread/INFO]: [Nicxlv: Set own game mode to Survival Mode]
-[03:43:43] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=153, y=127, z=-70} jh{x=154, y=126, z=-70}
-[03:45:20] [Server thread/INFO]: M14M1 has made the advancement [Sneak 100]
-[03:46:42] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=96, y=125, z=-82} jh{x=95, y=125, z=-82}
-[03:46:42] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=96, y=125, z=-82} jh{x=95, y=125, z=-82}
-[03:46:42] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=96, y=125, z=-82} jh{x=95, y=125, z=-82}
-[03:46:42] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=96, y=125, z=-82} jh{x=95, y=125, z=-82}
-[03:46:42] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=96, y=125, z=-82} jh{x=95, y=125, z=-82}
-[03:46:46] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1025, y=-8, z=461} jh{x=1024, y=-8, z=460}
-[03:46:46] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1025, y=-8, z=461} jh{x=1024, y=-8, z=460}
-[03:46:46] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1025, y=-8, z=461} jh{x=1024, y=-8, z=460}
-[03:46:46] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1025, y=-8, z=461} jh{x=1024, y=-8, z=460}
-[03:46:46] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1026, y=-7, z=460} jh{x=1026, y=-8, z=460}
-[03:46:46] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1026, y=-7, z=460} jh{x=1026, y=-8, z=460}
-[03:47:02] [Server thread/INFO]: <M14M1> uy
-[03:47:25] [Server thread/INFO]: sacracoronaj lost connection: Disconnected
-[03:47:25] [Server thread/INFO]: sacracoronaj left the game
-[03:47:49] [Server thread/INFO]: Nicxlv was obliterated by a sonically-charged shriek
-[03:48:13] [Server thread/INFO]: [Nicxlv: Set own game mode to Creative Mode]
-[03:48:38] [Server thread/INFO]: M14M1 has made the advancement [Cover Me with Diamonds]
-[03:48:43] [Server thread/INFO]: [Nicxlv: Set own game mode to Spectator Mode]
-[03:48:46] [Server thread/INFO]: [Nicxlv: Teleported Nicxlv to M14M1]
-[03:48:51] [Server thread/INFO]: M14M1 was slain by Drowned
-[03:49:10] [Server thread/INFO]: [Nicxlv: Set own game mode to Survival Mode]
-[03:49:29] [Server thread/INFO]: [Nicxlv: Set own game mode to Creative Mode]
-[03:49:37] [Server thread/INFO]: [Nicxlv: Set own game mode to Survival Mode]
-[03:49:44] [Server thread/INFO]: [Nicxlv: Set own game mode to Creative Mode]
-[03:49:52] [Server thread/INFO]: [Nicxlv: Set own game mode to Survival Mode]
-[03:50:23] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=106, y=121, z=-76} jh{x=105, y=120, z=-76}
-[03:52:06] [Server thread/INFO]: Nicxlv lost connection: Disconnected
-[03:52:06] [Server thread/INFO]: Nicxlv left the game
-[03:53:50] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=157, y=124, z=-48} jh{x=157, y=124, z=-49}
-[03:53:50] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=157, y=124, z=-48} jh{x=157, y=124, z=-49}
-[03:53:51] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=157, y=124, z=-48} jh{x=157, y=124, z=-49}
-[03:53:51] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=157, y=124, z=-48} jh{x=157, y=124, z=-49}
-[03:53:51] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=157, y=124, z=-48} jh{x=157, y=124, z=-49}
-[03:53:51] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=157, y=124, z=-48} jh{x=159, y=124, z=-45}
-[03:54:26] [User Authenticator #8/INFO]: UUID of player sacracoronaj is 8879014e-997b-4a11-9b8f-8953c96637df
-[03:54:27] [Server thread/INFO]: sacracoronaj[/127.43.195.213:37461] logged in with entity id 45960 at (185.3260702177265, 73.0, -175.30000001192093)
-[03:54:27] [Server thread/INFO]: sacracoronaj joined the game
-[03:54:42] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=143, y=123, z=-61} jh{x=143, y=123, z=-62}
-[03:54:44] [User Authenticator #9/INFO]: UUID of player Nicxlv is 15c31222-00af-48cf-8f3c-a99f1659c907
-[03:54:45] [Server thread/INFO]: Nicxlv[/127.194.46.31:42733] logged in with entity id 46355 at (1035.614188844931, -33.0, 494.07153976480697)
-[03:54:45] [Server thread/INFO]: Nicxlv joined the game
-[03:55:19] [Server thread/INFO]: <M14M1> no
-[03:56:24] [Server thread/INFO]: M14M1 was slain by Warden
-[03:56:24] [Server thread/INFO]: <Tiukk> 100
-[03:56:32] [Server thread/INFO]: <Tiukk> pero q quieres o q
-[03:56:34] [Server thread/INFO]: <M14M1> como que hay 2 wardens
-[03:56:34] [Server thread/INFO]: <Tiukk> capaz lo tengo
-[03:56:42] [Server thread/INFO]: <Tiukk> no eso si no
-[03:57:20] [Server thread/INFO]: <Tiukk> si usa puro creativo este infeliz
-[03:57:39] [Server thread/INFO]: <Tiukk> dijo que tenia 2 cabezas de wither o 1, y ayer que fue al nether y le dieron 1 de verdad salio el logro
-[03:57:43] [Server thread/INFO]: <Tiukk> mugre perro tramposo
-[04:00:56] [Server thread/INFO]: <jonx_x> FULL VANILA MAN
-[04:01:18] [Server thread/INFO]: sacracoronaj lost connection: Disconnected
-[04:01:18] [Server thread/INFO]: sacracoronaj left the game
-[04:01:24] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=120, y=121, z=-99} jh{x=138, y=123, z=-78}
-[04:01:24] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=120, y=121, z=-99} jh{x=138, y=123, z=-78}
-[04:01:24] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=120, y=121, z=-99} jh{x=138, y=123, z=-78}
-[04:01:51] [Server thread/INFO]: [Nicxlv: Set own game mode to Creative Mode]
-[04:01:53] [Server thread/WARN]: Nicxlv moved too quickly! -10.28640608638625,11.997434054460143,-2.2155770748671557
-[04:01:53] [Server thread/WARN]: Nicxlv moved too quickly! -7.539819930738759,11.941952708305223,-7.927773303537663
-[04:01:55] [Server thread/WARN]: Nicxlv moved too quickly! -10.782647697784114,0.0,-10.60832308834702
-[04:01:56] [Server thread/WARN]: Nicxlv moved too quickly! -10.782647697784114,0.0,-10.60832308834702
-[04:01:57] [Server thread/WARN]: Nicxlv moved too quickly! -11.39799835356115,0.0,-11.21372528195209
-[04:01:59] [Server thread/WARN]: Nicxlv moved too quickly! -11.489920776712324,0.0,-11.30416158212465
-[04:02:00] [Server thread/WARN]: Nicxlv moved too quickly! -10.874155333082797,11.641682153079216,-9.806985646900529
-[04:02:01] [Server thread/WARN]: Nicxlv moved too quickly! -9.87881520878085,11.992477278515878,-8.411081193541179
-[04:02:02] [Server thread/WARN]: Nicxlv moved too quickly! -9.435100510687846,11.987461971914115,-8.25854444133654
-[04:02:24] [Server thread/INFO]: [Nicxlv: Set own game mode to Survival Mode]
-[04:02:52] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=19, y=73, z=-44} jh{x=19, y=71, z=-44}
-[04:02:52] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=19, y=73, z=-44} jh{x=19, y=71, z=-44}
-[04:02:52] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=19, y=73, z=-44} jh{x=19, y=71, z=-44}
-[04:02:52] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=19, y=73, z=-44} jh{x=19, y=71, z=-44}
-[04:03:14] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=22, y=68, z=-45} jh{x=22, y=69, z=-46}
-[04:03:17] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=18, y=71, z=-44} jh{x=22, y=68, z=-45}
-[04:03:43] [Server thread/INFO]: [Nicxlv: Set own game mode to Creative Mode]
-[04:03:44] [Server thread/WARN]: Nicxlv moved too quickly! -5.351173121479917,11.741701172867053,7.407644885045993
-[04:03:55] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=51, y=44, z=-49} jh{x=50, y=41, z=-49}
-[04:04:00] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=56, y=36, z=-49} jh{x=55, y=36, z=-49}
-[04:04:03] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=58, y=34, z=-49} jh{x=60, y=32, z=-49}
-[04:04:05] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=61, y=31, z=-49} jh{x=60, y=30, z=-49}
-[04:04:05] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=61, y=31, z=-49} jh{x=60, y=30, z=-49}
-[04:04:05] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=61, y=30, z=-49} jh{x=60, y=30, z=-49}
-[04:05:49] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=63, y=18, z=-101} jh{x=63, y=17, z=-101}
-[04:06:23] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=62, y=14, z=-100} jh{x=63, y=14, z=-99}
-[04:06:28] [Server thread/INFO]: XKOUZ lost connection: Disconnected
-[04:06:28] [Server thread/INFO]: XKOUZ left the game
-[04:06:31] [Server thread/INFO]: jonx_x lost connection: Disconnected
-[04:06:31] [Server thread/INFO]: jonx_x left the game
-[04:06:43] [Server thread/INFO]: diex_x lost connection: Disconnected
-[04:06:43] [Server thread/INFO]: diex_x left the game
-[04:06:45] [User Authenticator #10/INFO]: UUID of player sacracoronaj is 8879014e-997b-4a11-9b8f-8953c96637df
-[04:06:46] [Server thread/INFO]: sacracoronaj[/127.43.195.213:41429] logged in with entity id 57105 at (43.80513357805545, 95.0, -90.90327125072157)
-[04:06:46] [Server thread/INFO]: sacracoronaj joined the game
-[04:06:54] [User Authenticator #11/INFO]: UUID of player diex_x is abadc53e-055c-4546-87b0-a545401ea610
-[04:06:55] [Server thread/INFO]: diex_x[/127.12.15.75:58895] logged in with entity id 57447 at (167.41078039474, 77.0, -165.2130955117241)
-[04:06:55] [Server thread/INFO]: diex_x joined the game
-[04:07:20] [Server thread/INFO]: diex_x has made the advancement [A Seedy Place]
-[04:07:21] [User Authenticator #12/INFO]: UUID of player jonx_x is 31440162-f62c-4768-b863-c2ddb3d8c0c9
-[04:07:22] [Server thread/INFO]: jonx_x[/127.141.98.190:50023] logged in with entity id 57886 at (185.86309597028446, 77.0, -161.72627368031698)
-[04:07:22] [Server thread/INFO]: jonx_x joined the game
-[04:07:36] [User Authenticator #13/INFO]: UUID of player Kaaysooo is 53c0d614-0aa4-4e9d-8cc2-bbf797cc7f9f
-[04:07:37] [Server thread/INFO]: Kaaysooo[/127.156.74.81:55843] logged in with entity id 58117 at (-993.4631839126375, 94.0, 2462.5138627684505)
-[04:07:37] [Server thread/INFO]: Kaaysooo joined the game
-[04:07:45] [Server thread/INFO]: <Kaaysooo> a
-[04:07:53] [Server thread/INFO]: diex_x has made the advancement [The Parrots and the Bats]
-[04:08:25] [User Authenticator #14/INFO]: UUID of player XKOUZ is 66769a0c-e0df-454d-bb64-cd951e973cf2
-[04:08:26] [Server thread/INFO]: XKOUZ[/127.68.124.2:55587] logged in with entity id 59156 at (201.67703497896704, 77.0, -164.42059930739714)
-[04:08:26] [Server thread/INFO]: XKOUZ joined the game
-[04:08:36] [Server thread/INFO]: <diex_x> :v
-[04:08:42] [Server thread/INFO]: <M14M1> no mas viendo
-[04:09:03] [Server thread/INFO]: [Nicxlv: Set own game mode to Survival Mode]
-[04:10:05] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=121, y=15, z=-70} jh{x=121, y=16, z=-69}
-[04:10:14] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=124, y=15, z=-68} jh{x=129, y=15, z=-68}
-[04:10:17] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=124, y=15, z=-68} jh{x=135, y=16, z=-68}
-[04:10:17] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=124, y=15, z=-68} jh{x=135, y=16, z=-68}
-[04:10:17] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=124, y=15, z=-68} jh{x=135, y=16, z=-68}
-[04:10:50] [Server thread/WARN]: Donkey (vehicle of sacracoronaj) moved wrongly! 0.2622655019311111
-[04:10:50] [Server thread/WARN]: Donkey (vehicle of sacracoronaj) moved wrongly! 0.5673507812469865
-[04:10:50] [Server thread/WARN]: Donkey (vehicle of sacracoronaj) moved wrongly! 0.8755585494994591
-[04:11:07] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=157, y=15, z=-69} jh{x=154, y=17, z=-72}
-[04:11:08] [Server thread/INFO]: <sacracoronaj> PUEDES VENIR A APLANAR
-[04:11:09] [Server thread/INFO]: <sacracoronaj> PORFA
-[04:11:12] [Server thread/INFO]: <sacracoronaj> HIJO DE PERRA
-[04:11:21] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=151, y=123, z=-66} jh{x=151, y=122, z=-67}
-[04:11:24] [Server thread/INFO]: [Nicxlv: Set own game mode to Creative Mode]
-[04:11:34] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=145, y=120, z=-60} jh{x=147, y=121, z=-60}
-[04:11:51] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=138, y=117, z=-88} jh{x=137, y=117, z=-87}
-[04:12:03] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=190, y=15, z=-77} jh{x=190, y=16, z=-77}
-[04:12:03] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=190, y=15, z=-77} jh{x=190, y=16, z=-77}
-[04:12:03] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=190, y=15, z=-77} jh{x=190, y=16, z=-77}
-[04:12:03] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=190, y=15, z=-77} jh{x=190, y=16, z=-77}
-[04:12:03] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=190, y=15, z=-77} jh{x=190, y=16, z=-77}
-[04:12:03] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=190, y=15, z=-77} jh{x=190, y=16, z=-77}
-[04:12:20] [Server thread/INFO]: M14M1 has made the advancement [Diamonds!]
-[04:12:24] [Server thread/INFO]: <M14M1> no hay maquina de comida?
-[04:12:39] [Server thread/INFO]: [Nicxlv: Set own game mode to Survival Mode]
-[04:13:17] [Server thread/INFO]: <M14M1> ahh ok
-[04:13:41] [Server thread/INFO]: [Nicxlv: Set own game mode to Creative Mode]
-[04:13:44] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=213, y=16, z=-66} jh{x=213, y=16, z=-65}
-[04:13:44] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=213, y=16, z=-66} jh{x=213, y=15, z=-65}
-[04:13:44] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=213, y=16, z=-66} jh{x=213, y=15, z=-65}
-[04:13:45] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=213, y=16, z=-66} jh{x=213, y=15, z=-65}
-[04:13:45] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=213, y=16, z=-66} jh{x=213, y=15, z=-65}
-[04:13:45] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=213, y=16, z=-66} jh{x=213, y=15, z=-65}
-[04:13:45] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=213, y=16, z=-66} jh{x=213, y=15, z=-65}
-[04:13:45] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=213, y=16, z=-66} jh{x=213, y=15, z=-65}
-[04:13:45] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=213, y=16, z=-66} jh{x=213, y=15, z=-65}
-[04:13:45] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=213, y=16, z=-66} jh{x=213, y=15, z=-65}
-[04:13:45] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=213, y=16, z=-66} jh{x=213, y=15, z=-65}
-[04:13:45] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=213, y=16, z=-66} jh{x=213, y=15, z=-65}
-[04:13:45] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=213, y=16, z=-66} jh{x=213, y=15, z=-65}
-[04:13:50] [Server thread/INFO]: [Nicxlv: Set own game mode to Survival Mode]
-[04:15:50] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=215, y=15, z=-17} jh{x=226, y=14, z=-14}
-[04:16:36] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=180, y=16, z=-76} jh{x=179, y=16, z=-76}
-[04:16:36] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=180, y=16, z=-76} jh{x=179, y=16, z=-76}
-[04:16:56] [Server thread/INFO]: <Kaaysooo> que
-[04:17:01] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=85, y=17, z=-94} jh{x=85, y=17, z=-95}
-[04:17:02] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=85, y=17, z=-94} jh{x=85, y=17, z=-95}
-[04:17:02] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=85, y=17, z=-94} jh{x=85, y=17, z=-95}
-[04:17:02] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=85, y=17, z=-94} jh{x=85, y=17, z=-95}
+[04:29:10] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[04:29:13] [ServerMain/INFO]: Loaded 1337 recipes
+[04:29:13] [ServerMain/INFO]: Loaded 1448 advancements
+[04:29:13] [Server thread/INFO]: Starting minecraft server version 1.21.3
+[04:29:13] [Server thread/INFO]: Loading properties
+[04:29:13] [Server thread/INFO]: Default game type: SURVIVAL
+[04:29:13] [Server thread/INFO]: Generating keypair
+[04:29:13] [Server thread/INFO]: Starting Minecraft server on *:25565
+[04:29:13] [Server thread/INFO]: Using epoll channel type
+[04:29:13] [Server thread/INFO]: Preparing level "world"
+[04:29:14] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[04:29:17] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[04:29:17] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[04:29:17] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[04:29:17] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[04:29:17] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[04:29:17] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[04:29:17] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[04:29:17] [Server thread/INFO]: Time elapsed: 3378 ms
+[04:29:17] [Server thread/INFO]: Done (3.735s)! For help, type "help"
+[04:29:17] [User Authenticator #1/INFO]: UUID of player Tiukk is 582606ef-cb1a-4578-8f87-a6e67ad8f919
+[04:29:19] [Server thread/INFO]: Tiukk[/127.168.226.231:52853] logged in with entity id 21 at (-33.43985130176801, 65.41999998688698, -237.40061590909735)
+[04:29:19] [Server thread/INFO]: Tiukk joined the game
+[04:29:20] [User Authenticator #2/INFO]: UUID of player XKOUZ is 66769a0c-e0df-454d-bb64-cd951e973cf2
+[04:29:20] [User Authenticator #3/INFO]: UUID of player M14M1 is ef82845c-420a-4bb2-9312-1f71912ad27f
+[04:29:20] [User Authenticator #4/INFO]: UUID of player Nicxlv is 15c31222-00af-48cf-8f3c-a99f1659c907
+[04:29:21] [Server thread/INFO]: XKOUZ[/127.68.124.2:48935] logged in with entity id 192 at (8.638746265247676, 66.0, -330.52192109612866)
+[04:29:21] [Server thread/INFO]: XKOUZ joined the game
+[04:29:21] [Server thread/INFO]: M14M1[/127.49.88.175:57871] logged in with entity id 206 at (11.007942091323741, 66.79673560066871, -298.650871213185)
+[04:29:21] [Server thread/INFO]: M14M1 joined the game
+[04:29:21] [Server thread/INFO]: Nicxlv[/127.194.46.31:48249] logged in with entity id 246 at (99.31872865975068, 64.17675927506424, -192.26012503796863)
+[04:29:21] [Server thread/INFO]: Nicxlv joined the game
+[04:29:28] [User Authenticator #6/INFO]: UUID of player sacracoronaj is 8879014e-997b-4a11-9b8f-8953c96637df
+[04:29:28] [User Authenticator #5/INFO]: UUID of player jonx_x is 31440162-f62c-4768-b863-c2ddb3d8c0c9
+[04:29:29] [Server thread/INFO]: sacracoronaj[/127.43.195.213:45597] logged in with entity id 542 at (13.93650963261038, 70.02442408821369, -329.44685376180774)
+[04:29:29] [Server thread/INFO]: sacracoronaj joined the game
+[04:29:29] [Server thread/INFO]: jonx_x[/127.141.98.190:55429] logged in with entity id 549 at (109.86776046403712, 61.5625, -214.61951403375372)
+[04:29:29] [Server thread/INFO]: jonx_x joined the game
+[04:29:36] [Server thread/WARN]: UUID of added entity already exists: cic['Chicken'/703, l='ServerLevel[world]', x=-276.08, y=79.00, z=-205.85]
+[04:29:53] [User Authenticator #7/INFO]: UUID of player diex_x is abadc53e-055c-4546-87b0-a545401ea610
+[04:29:54] [Server thread/INFO]: diex_x[/127.12.15.75:34863] logged in with entity id 837 at (111.69999998807907, 61.5625, -218.82641686905293)
+[04:29:54] [Server thread/INFO]: diex_x joined the game
+[04:29:54] [User Authenticator #8/INFO]: UUID of player Kaaysooo is 53c0d614-0aa4-4e9d-8cc2-bbf797cc7f9f
+[04:29:56] [Server thread/INFO]: Kaaysooo[/127.156.74.81:47767] logged in with entity id 855 at (-928.1795469658097, 66.0, 2491.8937087618456)
+[04:29:56] [Server thread/INFO]: Kaaysooo joined the game
+[04:29:58] [User Authenticator #9/INFO]: UUID of player lAndrea_ is 6a5a77f4-92da-427f-ba0a-cd4c7194568d
+[04:29:59] [Server thread/INFO]: lAndrea_[/127.240.8.177:46657] logged in with entity id 1142 at (113.4871880704399, 65.02442408821369, -172.5455040334306)
+[04:29:59] [Server thread/INFO]: lAndrea_ joined the game
+[04:30:20] [Server thread/INFO]: sacracoronaj lost connection: Disconnected
+[04:30:20] [Server thread/INFO]: sacracoronaj left the game
+[04:30:20] [Server thread/INFO]: <lAndrea_> xdd
+[04:30:22] [Server thread/INFO]: Nicxlv has made the advancement [Hidden in the Depths]
+[04:30:24] [User Authenticator #10/INFO]: UUID of player sacracoronaj is 8879014e-997b-4a11-9b8f-8953c96637df
+[04:30:24] [Server thread/INFO]: <M14M1> asd
+[04:30:25] [Server thread/INFO]: sacracoronaj[/127.43.195.213:58585] logged in with entity id 1643 at (111.4144590678813, 66.0, -222.47492826360147)
+[04:30:25] [Server thread/INFO]: sacracoronaj joined the game
+[04:30:31] [Server thread/INFO]: XKOUZ has made the advancement [Hidden in the Depths]
+[04:30:55] [Server thread/INFO]: sacracoronaj has made the advancement [Hidden in the Depths]
+[04:31:10] [Server thread/INFO]: <lAndrea_> wwaaaaats
+[04:31:15] [Server thread/INFO]: lAndrea_ has made the advancement [Take Aim]
+[04:31:34] [Server thread/INFO]: [Nicxlv: Set own game mode to Creative Mode]
+[04:31:59] [Server thread/INFO]: [Nicxlv: Set own game mode to Survival Mode]
+[04:32:04] [Server thread/INFO]: <lAndrea_> likke
+[04:32:06] [Server thread/INFO]: <lAndrea_> me puedes dar
+[04:32:08] [Server thread/INFO]: <lAndrea_> las speedds
+[04:32:18] [Server thread/INFO]: <Kaaysooo> metan mods
+[04:32:22] [Server thread/INFO]: <Kaaysooo> es una mierda asi
+[04:33:04] [Server thread/INFO]: <Kaaysooo> likke
+[04:33:04] [Server thread/INFO]: <Kaaysooo> likke
+[04:33:11] [Server thread/INFO]: <Kaaysooo> MODS
+[04:33:13] [Server thread/INFO]: <Kaaysooo> POR FAVOR
+[04:33:23] [Server thread/INFO]: <Kaaysooo> metan dragones
+[04:33:24] [Server thread/INFO]: <Kaaysooo> ;b
+[04:33:27] [Server thread/INFO]: <diex_x> KJHDSAKJASDKJDAS
+[04:33:27] [Server thread/INFO]: <diex_x> KJHDSAKJASDKJDAS
+[04:33:31] [Server thread/INFO]: <diex_x> KJHDSAKJASDKJDAS JKASDJKSADKJDSA Tiukk BASADO
+[04:33:31] [Server thread/INFO]: <diex_x> KJHDSAKJASDKJDAS JKASDJKSADKJDSA Tiukk BASADO
+[04:34:07] [Server thread/INFO]: Kaaysooo lost connection: Disconnected
+[04:34:07] [Server thread/INFO]: Kaaysooo left the game
+[04:35:03] [Server thread/INFO]: <lAndrea_> ME CAI
+[04:35:04] [Server thread/INFO]: <lAndrea_> ESPERNE
+[04:36:01] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-602, y=71, z=-983} jh{x=-601, y=72, z=-980}
+[04:37:16] [Server thread/INFO]: [Nicxlv: The difficulty has been set to Hard]
+[04:38:01] [Server thread/INFO]: XKOUZ has made the advancement [Eye Spy]
+[04:38:10] [Server thread/INFO]: diex_x has made the advancement [Eye Spy]
+[04:38:17] [Server thread/INFO]: [Nicxlv: Teleported Tiukk to Nicxlv]
+[04:38:32] [Server thread/INFO]: [Nicxlv: Teleported Tiukk to Nicxlv]
+[04:38:51] [Server thread/INFO]: [Nicxlv: Set own game mode to Creative Mode]
+[04:39:07] [Server thread/INFO]: <sacracoronaj> DESMUTE
+[04:39:16] [Server thread/INFO]: <diex_x> JOACO?
+[04:39:17] [Server thread/INFO]: <diex_x> JOACO?
+[04:39:35] [Server thread/INFO]: <diex_x> -1116 -9 -1507
+[04:39:35] [Server thread/INFO]: <diex_x> -1116 -9 -1507
+[04:39:36] [Server thread/INFO]: <diex_x> -1116 -9 -1507
+[04:39:36] [Server thread/INFO]: <diex_x> -1116 -9 -1507
+[04:39:37] [Server thread/INFO]: <diex_x> -1116 -9 -1507
+[04:39:37] [Server thread/INFO]: <diex_x> -1116 -9 -1507
+[04:39:38] [Server thread/INFO]: <diex_x> -1116 -9 -1507
+[04:39:38] [Server thread/INFO]: <diex_x> -1116 -9 -1507
+[04:39:38] [Server thread/INFO]: <diex_x> -1116 -9 -1507
+[04:39:41] [Server thread/INFO]: Nicxlv has made the advancement [Eye Spy]
+[04:39:44] [Server thread/INFO]: Tiukk has made the advancement [Eye Spy]
+[04:39:45] [Server thread/INFO]: [Nicxlv: Set own game mode to Survival Mode]
+[04:39:56] [Server thread/INFO]: [Nicxlv: Teleported 8 entities to Nicxlv]
+[04:39:57] [Server thread/INFO]: sacracoronaj has made the advancement [Eye Spy]
+[04:39:57] [Server thread/INFO]: M14M1 has made the advancement [Eye Spy]
+[04:39:57] [Server thread/INFO]: jonx_x has made the advancement [Eye Spy]
+[04:39:57] [Server thread/INFO]: lAndrea_ has made the advancement [Eye Spy]
+[04:39:57] [Server thread/WARN]: lAndrea_ moved wrongly!
+[04:40:05] [Server thread/INFO]: [Nicxlv: Set own game mode to Creative Mode]
+[04:40:27] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-1244, y=66, z=-1426} jh{x=-1112, y=-9, z=-1506}
+[04:40:27] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-1244, y=66, z=-1426} jh{x=-1112, y=-9, z=-1506}
+[04:40:30] [Server thread/INFO]: sacracoronaj has made the advancement [The End?]
+[04:40:31] [Server thread/INFO]: Scanning for legacy world dragon fight...
+[04:40:31] [Server thread/INFO]: Found that the dragon has not yet been killed in this world.
+[04:40:32] [Server thread/INFO]: Tiukk has made the advancement [The End?]
+[04:40:33] [Server thread/INFO]: jonx_x has made the advancement [The End?]
+[04:40:33] [Server thread/INFO]: diex_x has made the advancement [The End?]
+[04:40:34] [Server thread/INFO]: XKOUZ has made the advancement [The End?]
+[04:40:35] [Server thread/INFO]: Nicxlv has made the advancement [The End?]
+[04:40:36] [Server thread/INFO]: lAndrea_ has made the advancement [The End?]
+[04:40:40] [Server thread/INFO]: M14M1 has made the advancement [The End?]
+[04:41:27] [Server thread/INFO]: M14M1 was killed by Ender Dragon using magic
+[04:41:37] [Server thread/INFO]: lAndrea_ has made the advancement [Stone Age]
+[04:42:24] [Server thread/INFO]: <M14M1> el unico survival que jugue fue el de la 1.8 no conocia esa mrd del piso
+[04:42:55] [Server thread/INFO]: [Nicxlv: Set own game mode to Survival Mode]
+[04:43:01] [Server thread/INFO]: lAndrea_ was burned to a crisp while fighting Ender Dragon
+[04:43:20] [Server thread/INFO]: [Nicxlv: Teleported lAndrea_ to Nicxlv]
+[04:43:36] [Server thread/INFO]: <M14M1> y a ella si le hace tp
+[04:43:38] [Server thread/INFO]: <M14M1> like hdp
+[04:43:41] [Server thread/INFO]: <jonx_x> JASJAFSJASF
+[04:43:44] [Server thread/INFO]: [Nicxlv: Teleported M14M1 to Tiukk]
+[04:44:01] [Server thread/INFO]: diex_x has made the advancement [Free the End]
+[04:44:07] [Server thread/INFO]: <diex_x> EZ
+[04:44:10] [Server thread/INFO]: M14M1 was shot by lAndrea_
+[04:44:19] [Server thread/INFO]: lAndrea_ has made the advancement [Monster Hunter]
+[04:44:23] [Server thread/INFO]: [Nicxlv: Set own game mode to Creative Mode]
+[04:44:27] [Server thread/WARN]: diex_x moved wrongly!
+[04:44:39] [Server thread/INFO]: Tiukk (/127.168.226.231:55815) lost connection: Disconnected
+[04:44:45] [Server thread/INFO]: [Nicxlv: Set own game mode to Survival Mode]
+[04:44:49] [Server thread/INFO]: diex_x has reached the goal [The Next Generation]
+[04:44:52] [Server thread/INFO]: Tiukk lost connection: Timed out
+[04:44:52] [Server thread/INFO]: Tiukk left the game
+[04:44:52] [Server thread/WARN]: handleDisconnection() called twice
+[04:45:00] [Server thread/INFO]: Nicxlv has reached the goal [The Next Generation]
+[04:45:19] [Server thread/INFO]: XKOUZ has made the advancement [Remote Getaway]
+[04:45:35] [Server thread/INFO]: [Nicxlv: Teleported sacracoronaj to XKOUZ]
+[04:45:45] [Server thread/INFO]: <M14M1> tp likee
+[04:45:52] [Server thread/INFO]: [Nicxlv: Teleported M14M1 to XKOUZ]
+[04:46:04] [Server thread/INFO]: Nicxlv has made the advancement [Remote Getaway]
+[04:46:08] [Server thread/INFO]: [Nicxlv: Teleported lAndrea_ to Nicxlv]
+[04:46:26] [Server thread/INFO]: [Nicxlv: Set own game mode to Creative Mode]
+[04:46:36] [Server thread/INFO]: [Nicxlv: Set own game mode to Survival Mode]
+[04:46:40] [Server thread/INFO]: diex_x has made the advancement [Remote Getaway]
+[04:46:43] [Server thread/INFO]: sacracoronaj lost connection: Disconnected
+[04:46:43] [Server thread/INFO]: sacracoronaj left the game
+[04:46:45] [Server thread/INFO]: jonx_x has made the advancement [Remote Getaway]
+[04:47:11] [Server thread/INFO]: lAndrea_ lost connection: Disconnected
+[04:47:11] [Server thread/INFO]: lAndrea_ left the game
+[04:47:28] [User Authenticator #11/INFO]: UUID of player Tiukk is 582606ef-cb1a-4578-8f87-a6e67ad8f919
+[04:47:29] [Server thread/INFO]: Tiukk[/127.168.226.231:35339] logged in with entity id 17061 at (-2.9560660716257705, 64.0, 3.8011759900342565)
+[04:47:29] [Server thread/INFO]: Tiukk joined the game
+[04:48:31] [Server thread/INFO]: Tiukk has made the advancement [Remote Getaway]
+[04:48:53] [Server thread/WARN]: M14M1 moved too quickly! 3.3550809969300417,-10.766801170065982,0.9717054162165368
