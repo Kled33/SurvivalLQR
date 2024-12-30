@@ -39,3 +39,27 @@
 [01:05:04] [Server thread/INFO]: jonx_x joined the game
 [01:05:11] [Server thread/INFO]: jonx_x lost connection: Disconnected
 [01:05:11] [Server thread/INFO]: jonx_x left the game
+[01:20:36] [Server thread/INFO]: [Nicxlv: Set own game mode to Creative Mode]
+[01:21:04] [Server thread/INFO]: [Nicxlv: Set own game mode to Survival Mode]
+[01:25:08] [Server thread/INFO]: 14121983 (/127.122.66.195:49111) lost connection: Disconnected
+[01:25:10] [User Authenticator #5/INFO]: UUID of player 14121983 is 0f176954-9621-42e5-bf45-3f2d74123d62
+[01:25:14] [Server thread/INFO]: 14121983[/127.122.66.195:60627] logged in with entity id 11223 at (113.69999998807907, 65.49520087700593, -205.10440048690072)
+[01:25:14] [Server thread/INFO]: 14121983 joined the game
+[01:27:54] [Server thread/INFO]: [Nicxlv: Set own game mode to Creative Mode]
+[01:29:14] [Server thread/INFO]: 14121983 lost connection: Timed out
+[01:29:14] [Server thread/INFO]: 14121983 left the game
+[01:29:14] [Server thread/WARN]: handleDisconnection() called twice
+[01:29:55] [Server thread/INFO]: 14121983 (/127.122.66.195:52469) lost connection: Disconnected
+[01:30:13] [Server thread/INFO]: 14121983 (/127.122.66.195:55617) lost connection: Disconnected
+[01:30:20] [User Authenticator #6/INFO]: UUID of player 14121983 is 0f176954-9621-42e5-bf45-3f2d74123d62
+[01:30:21] [Server thread/INFO]: 14121983[/127.122.66.195:56803] logged in with entity id 12560 at (190.22986503458057, 77.0, -163.38056126141691)
+[01:30:21] [Server thread/INFO]: 14121983 joined the game
+[01:30:42] [Server thread/INFO]: 14121983 lost connection: Disconnected
+[01:30:42] [Server thread/INFO]: 14121983 left the game
+[01:31:31] [User Authenticator #7/INFO]: UUID of player 14121983 is 0f176954-9621-42e5-bf45-3f2d74123d62
+[01:31:32] [Server thread/INFO]: 14121983[/127.122.66.195:59211] logged in with entity id 12866 at (191.8976192072396, 77.0, -160.98832554410814)
+[01:31:32] [Server thread/INFO]: 14121983 joined the game
+[01:34:02] [Server thread/INFO]: 14121983 lost connection: Timed out
+[01:34:02] [Server thread/INFO]: 14121983 left the game
+[01:34:23] [Server thread/INFO]: [Nicxlv: Set own game mode to Survival Mode]
+[01:38:22] [Server thread/INFO]: [Nicxlv: Set own game mode to Creative Mode]
